@@ -1,0 +1,2320 @@
+{
+    "styles": 
+    [
+        {
+            "id":"bottom_buttons_",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":16,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -300,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":200
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":150
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"HorizontalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": true,
+                        "height": true
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":48,
+                    "right":48,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":32,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":-6.103516e-05,
+                        "y":86,
+                        "z":5
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-64
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":100
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":false,
+            "longTimer":false,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":10,
+                "timerChildHeight":10
+            },
+            "bottomTimer":false,
+            "roundedButtons":true
+        },        
+        {
+            "id":"bottom_banner_",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -340,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":160
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":210
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"HorizontalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": true,
+                        "height": true
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":-44,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-254
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":280
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 0,
+            "longQuestion":true,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":15,
+                "timerChildHeight":20
+            },
+            "bottomTimer":false,
+            "roundedButtons":false
+        },
+        {
+            "id":"new_split_left_right_central_button",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":460,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -100,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":430
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":150
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"HorizontalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": true,
+                        "height": true
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":48,
+                    "right":48,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":32,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":-6.103516e-05,
+                        "y":86,
+                        "z":5
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-64
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":100
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":false,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":false,
+            "roundedButtons":true
+        },
+        {
+            "id":"right_hand_text_",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": 470,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1160
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": true,
+                        "height": true
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":1100,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"MiddleRight",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":-615,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-615
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":1080
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "timerIndex": 2,
+            "longQuestion":true,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":true,
+            "roundedButtons":false
+        },
+        {
+            "id":"new_split_left_right_central_text",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -460,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1080
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"HorizontalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": true,
+                        "height": true
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"MiddleRight",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":465,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-615
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":1080
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":true,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":true,
+            "roundedButtons":false
+        },
+        {
+            "id":"new_split_top_bottom_central_text",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": true
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -460,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1080
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": true,
+                        "height": true
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":0,
+                "childAlignment":"MiddleRight",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":465,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-615
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":1070
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":true,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":true,
+            "roundedButtons":false
+        },
+        {
+            "id":"new_split_top_bottom_central_button",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":60,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -540,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1030
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": true,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":32,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":505,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-575
+                    },
+                    "sizeDelta":
+                    {
+                        "x":400,
+                        "y":950
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":false,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":true,
+            "roundedButtons":true
+        },
+        {
+            
+            "id":"split_quadrant_central_button",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":12,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -540,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1160
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"GridLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":12,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":546,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-614
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":1040
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":480,
+                        "y":220
+                    },
+                    "cellSize":
+                    {
+                        "x":400,
+                        "y":220
+                    },
+                    "startCorner":"UpperLeft",
+                    "startAxis":"Horizontal",
+                    "constraint":
+                    {
+                        "type":"FixedRowCount",
+                        "constraintCount":2
+                    },
+                    "padding":{
+                        "left":75,
+                        "right":100,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":false,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":true,
+            "roundedButtons":true
+        },
+        {
+            
+            "id":"split_quadrant_central_text",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":20,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -540,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1180
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"GridLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":32,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":546,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-620
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":1040
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":960,
+                        "y":540
+                    },
+                    "startCorner":"UpperLeft",
+                    "startAxis":"Horizontal",
+                    "constraint":
+                    {
+                        "type":"FixedRowCount",
+                        "constraintCount":2
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":false,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+            },
+            "bottomTimer":true,
+            "roundedButtons":false
+        },
+        {
+            
+            "id":"split_quadrant_bottom_button",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":20,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -540,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1180
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"GridLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":32,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":560,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-620
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":1040
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+
+                    "spacing":{
+                        "x":540,
+                        "y":500
+                    },
+                    "cellSize":
+                    {
+                        "x":380,
+                        "y":60
+                    },
+                    "startCorner":"UpperLeft",
+                    "startAxis":"Horizontal",
+                    "constraint":
+                    {
+                        "type":"FixedRowCount",
+                        "constraintCount":2
+                    },
+                    "padding":{
+                        "left":200,
+                        "right":0,
+                        "top":350,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":false,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":true,
+            "roundedButtons":true
+        },
+        {
+            
+            "id":"split_quadrant_bottom_banner",
+            "parent":
+            {
+                "layout":"VerticalLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":20,
+                "childAlignment":"UpperCenter",
+                "transform":
+                {
+                    "localPos": {
+                        "x": 0,
+                        "y": -540,
+                        "z": 0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "anchorMax":
+                    {
+                        "x":1,
+                        "y":0
+                    },
+                    "anchoredPos":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "sizeDelta":
+                    {
+                        "x":0,
+                        "y":1180
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0
+                    }
+                },
+                "gridOptions":
+                {
+                    "spacing":{
+                        "x":0,
+                        "y":0
+                    },
+                    "cellSize":
+                    {
+                        "x":0,
+                        "y":0
+                    },
+                    "startCorner":"",
+                    "startAxis":"",
+                    "constraint":
+                    {
+                        "type":"",
+                        "constraintCount":0
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":0,
+                        "bottom":0
+                    }
+                }
+                
+            },
+            "child":
+                {
+                "layout":"GridLayoutGroup",
+                "controls":
+                {
+                    "size":
+                    {
+                        "width": false,
+                        "height": false
+                    },
+                    "scale":
+                    {
+                        "horizontal": false,
+                        "height": false
+                    },
+                    "expand":
+                    {
+                        "width": true,
+                        "height": true
+                    }
+                },
+                "reverseAlign":false,
+                "padding":
+                {
+                    "left":0,
+                    "right":0,
+                    "top":0,
+                    "bottom":0
+                },
+                "spacing":32,
+                "childAlignment":"MiddleCenter",
+                
+                "transform":
+                {
+                    "localPos":
+                    {
+                        "x":0,
+                        "y":560,
+                        "z":0
+                    },
+                    "localScale":
+                    {
+                        "x":1,
+                        "y":1,
+                        "z":1
+                    },
+                    "anchorMin":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchorMax":
+                    {
+                        "x":0,
+                        "y":1
+                    },
+                    "anchoredPos":
+                    {
+                        "x":960,
+                        "y":-620
+                    },
+                    "sizeDelta":
+                    {
+                        "x":1920,
+                        "y":1040
+                    },
+                    "piviot":
+                    {
+                        "x":0.5,
+                        "y":0.5
+                    }
+                },
+                "gridOptions":
+                {
+
+                    "spacing":{
+                        "x":0,
+                        "y":400
+                    },
+                    "cellSize":
+                    {
+                        "x":960,
+                        "y":200
+                    },
+                    "startCorner":"UpperLeft",
+                    "startAxis":"Horizontal",
+                    "constraint":
+                    {
+                        "type":"FixedRowCount",
+                        "constraintCount":2
+                    },
+                    "padding":{
+                        "left":0,
+                        "right":0,
+                        "top":280,
+                        "bottom":0
+                    }
+                }
+            },
+            "timerIndex": 2,
+            "longQuestion":false,
+            "longTimer":true,
+            "timerStyle":{
+                "width": 960,
+                "anchoredPosX":480,
+                "timerParentHeight":20,
+                "timerChildHeight":20
+                
+            },
+            "bottomTimer":true,
+            "roundedButtons":false
+        }
+    ]
+}
